@@ -1,0 +1,52 @@
+[
+  {
+    "url": "https://api.github.com/repos/charlesakio/student_job/labels/bug",
+    "name": "bug",
+    "color": "fc2929"
+  },
+  {
+    "url": "https://api.github.com/repos/charlesakio/student_job/labels/duplicate",
+    "name": "duplicate",
+    "color": "cccccc"
+  },
+  {
+    "url": "https://api.github.com/repos/charlesakio/student_job/labels/enhancement",
+    "name": "enhancement",
+    "color": "84b6eb"
+  },
+  {
+    "url": "https://api.github.com/repos/charlesakio/student_job/labels/help%20wanted",
+    "name": "help wanted",
+    "color": "159818"
+  },
+  {
+    "url": "https://api.github.com/repos/charlesakio/student_job/labels/invalid",
+    "name": "invalid",
+    "color": "e6e6e6"
+  },
+  {
+    "url": "https://api.github.com/repos/charlesakio/student_job/labels/question",
+    "name": "question",
+    "color": "cc317c"
+  },
+  {
+    "url": "https://api.github.com/repos/charlesakio/student_job/labels/wontfix",
+    "name": "wontfix",
+    "color": "ffffff"
+  },
+  {
+    "url": "https://api.github.com/repos/charlesakio/student_job/labels/docs",
+    "name": "docs",
+    "color": "006b75"
+  },
+  {
+    "url": "https://api.github.com/repos/charlesakio/student_job/labels/Design",
+    "name": "Design",
+    "color": "5319e7"
+  },
+  {
+    "url": "https://api.github.com/repos/charlesakio/student_job/labels/security",
+    "name": "security",
+    "color": "ededed"
+  }
+]

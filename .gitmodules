@@ -1,0 +1,966 @@
+[submodule "home/.vim/plugged/A.vim"]
+	path = home/.vim/plugged/A.vim
+	url = https://github.com/Kris2k/A.vim.git
+[submodule "home/.vim/plugged/ack.vim"]
+	path = home/.vim/plugged/ack.vim
+	url = https://github.com/mileszs/ack.vim.git
+[submodule "home/.vim/plugged/adt.vim"]
+	path = home/.vim/plugged/adt.vim
+	url = https://github.com/vim-scripts/adt.vim.git
+[submodule "home/.vim/plugged/ag.vim"]
+	path = home/.vim/plugged/ag.vim
+	url = https://github.com/rking/ag.vim.git
+[submodule "home/.vim/plugged/Align"]
+	path = home/.vim/plugged/Align
+	url = https://github.com/vim-scripts/Align.git
+[submodule "home/.vim/plugged/base16-vim"]
+	path = home/.vim/plugged/base16-vim
+	url = https://github.com/chriskempson/base16-vim.git
+[submodule "home/.vim/plugged/bats.vim"]
+	path = home/.vim/plugged/bats.vim
+	url = https://github.com/vim-scripts/bats.vim.git
+[submodule "home/.vim/plugged/betterga"]
+	path = home/.vim/plugged/betterga
+	url = https://github.com/vim-scripts/betterga.git
+[submodule "home/.vim/plugged/browserlink.vim"]
+	path = home/.vim/plugged/browserlink.vim
+	url = https://github.com/jaxbot/browserlink.vim.git
+[submodule "home/.vim/plugged/browser.vim"]
+	path = home/.vim/plugged/browser.vim
+	url = https://github.com/mjbrownie/browser.vim.git
+[submodule "home/.vim/plugged/calendar-vim"]
+	path = home/.vim/plugged/calendar-vim
+	url = https://github.com/mattn/calendar-vim.git
+[submodule "home/.vim/plugged/clang_complete"]
+	path = home/.vim/plugged/clang_complete
+	url = https://github.com/rip-rip/clang_complete.git
+[submodule "home/.vim/plugged/closetag.vim"]
+	path = home/.vim/plugged/closetag.vim
+	url = https://github.com/docunext/closetag.vim.git
+[submodule "home/.vim/plugged/codepad"]
+	path = home/.vim/plugged/codepad
+	url = https://github.com/vim-scripts/codepad.git
+[submodule "home/.vim/plugged/CoffeeTags"]
+	path = home/.vim/plugged/CoffeeTags
+	url = https://github.com/lukaszkorecki/CoffeeTags.git
+[submodule "home/.vim/plugged/color_coded"]
+	path = home/.vim/plugged/color_coded
+	url = https://github.com/jeaye/color_coded.git
+[submodule "home/.vim/plugged/csapprox"]
+	path = home/.vim/plugged/csapprox
+	url = https://github.com/godlygeek/csapprox.git
+[submodule "home/.vim/plugged/csv.vim"]
+	path = home/.vim/plugged/csv.vim
+	url = https://github.com/chrisbra/csv.vim.git
+[submodule "home/.vim/plugged/ctrlp-extensions.vim"]
+	path = home/.vim/plugged/ctrlp-extensions.vim
+	url = https://github.com/sgur/ctrlp-extensions.vim.git
+[submodule "home/.vim/plugged/ctrlp-funky"]
+	path = home/.vim/plugged/ctrlp-funky
+	url = https://github.com/tacahiroy/ctrlp-funky.git
+[submodule "home/.vim/plugged/ctrlp-py-matcher"]
+	path = home/.vim/plugged/ctrlp-py-matcher
+	url = https://github.com/FelikZ/ctrlp-py-matcher.git
+[submodule "home/.vim/plugged/ctrlp.vim"]
+	path = home/.vim/plugged/ctrlp.vim
+	url = https://github.com/ctrlpvim/ctrlp.vim.git
+[submodule "home/.vim/plugged/cumino"]
+	path = home/.vim/plugged/cumino
+	url = https://github.com/adinapoli/cumino.git
+[submodule "home/.vim/plugged/dbext.vim"]
+	path = home/.vim/plugged/dbext.vim
+	url = https://github.com/vim-scripts/dbext.vim.git
+[submodule "home/.vim/plugged/delimitMate"]
+	path = home/.vim/plugged/delimitMate
+	url = https://github.com/Raimondi/delimitMate.git
+[submodule "home/.vim/plugged/DistractFree"]
+	path = home/.vim/plugged/DistractFree
+	url = https://github.com/vim-scripts/DistractFree.git
+[submodule "home/.vim/plugged/ditaa"]
+	path = home/.vim/plugged/ditaa
+	url = https://github.com/vim-scripts/ditaa.git
+[submodule "home/.vim/plugged/django.vim"]
+	path = home/.vim/plugged/django.vim
+	url = https://github.com/vim-scripts/django.vim.git
+[submodule "home/.vim/plugged/DrawIt"]
+	path = home/.vim/plugged/DrawIt
+	url = https://github.com/vim-scripts/DrawIt.git
+[submodule "home/.vim/plugged/dtd2vim"]
+	path = home/.vim/plugged/dtd2vim
+	url = https://github.com/vim-scripts/dtd2vim.git
+[submodule "home/.vim/plugged/echodoc.vim"]
+	path = home/.vim/plugged/echodoc.vim
+	url = https://github.com/Shougo/echodoc.vim.git
+[submodule "home/.vim/plugged/elixir-snippets"]
+	path = home/.vim/plugged/elixir-snippets
+	url = https://github.com/carlosgaldino/elixir-snippets.git
+[submodule "home/.vim/plugged/emmet-vim"]
+	path = home/.vim/plugged/emmet-vim
+	url = https://github.com/mattn/emmet-vim.git
+[submodule "home/.vim/plugged/fasm-compiler"]
+	path = home/.vim/plugged/fasm-compiler
+	url = https://github.com/vim-scripts/fasm-compiler.git
+[submodule "home/.vim/plugged/foldCC.vim"]
+	path = home/.vim/plugged/foldCC.vim
+	url = https://github.com/LeafCage/foldCC.vim.git
+[submodule "home/.vim/plugged/ghcmod-vim"]
+	path = home/.vim/plugged/ghcmod-vim
+	url = https://github.com/eagletmt/ghcmod-vim.git
+[submodule "home/.vim/plugged/gist-vim"]
+	path = home/.vim/plugged/gist-vim
+	url = https://github.com/mattn/gist-vim.git
+[submodule "home/.vim/plugged/github-issues.vim"]
+	path = home/.vim/plugged/github-issues.vim
+	url = https://github.com/jaxbot/github-issues.vim.git
+[submodule "home/.vim/plugged/gitv"]
+	path = home/.vim/plugged/gitv
+	url = https://github.com/gregsexton/gitv.git
+[submodule "home/.vim/plugged/grunt.vim"]
+	path = home/.vim/plugged/grunt.vim
+	url = https://github.com/mklabs/grunt.vim.git
+[submodule "home/.vim/plugged/gulp-vim"]
+	path = home/.vim/plugged/gulp-vim
+	url = https://github.com/KabbAmine/gulp-vim.git
+[submodule "home/.vim/plugged/hardmode"]
+	path = home/.vim/plugged/hardmode
+	url = https://github.com/wikitopian/hardmode.git
+[submodule "home/.vim/plugged/haskellmode-vim"]
+	path = home/.vim/plugged/haskellmode-vim
+	url = https://github.com/lukerandall/haskellmode-vim.git
+[submodule "home/.vim/plugged/hasksyn"]
+	path = home/.vim/plugged/hasksyn
+	url = https://github.com/travitch/hasksyn.git
+[submodule "home/.vim/plugged/html5.vim"]
+	path = home/.vim/plugged/html5.vim
+	url = https://github.com/othree/html5.vim.git
+[submodule "home/.vim/plugged/HTML-AutoCloseTag"]
+	path = home/.vim/plugged/HTML-AutoCloseTag
+	url = https://github.com/amirh/HTML-AutoCloseTag.git
+[submodule "home/.vim/plugged/incsearch.vim"]
+	path = home/.vim/plugged/incsearch.vim
+	url = https://github.com/haya14busa/incsearch.vim.git
+[submodule "home/.vim/plugged/indentLine"]
+	path = home/.vim/plugged/indentLine
+	url = https://github.com/Yggdroot/indentLine.git
+[submodule "home/.vim/plugged/ingo-library"]
+	path = home/.vim/plugged/ingo-library
+	url = https://github.com/vim-scripts/ingo-library.git
+[submodule "home/.vim/plugged/investigate.vim"]
+	path = home/.vim/plugged/investigate.vim
+	url = https://github.com/keith/investigate.vim.git
+[submodule "home/.vim/plugged/jade"]
+	path = home/.vim/plugged/jade
+	url = https://github.com/jadejs/jade.git
+[submodule "home/.vim/plugged/javascript-libraries-syntax.vim"]
+	path = home/.vim/plugged/javascript-libraries-syntax.vim
+	url = https://github.com/othree/javascript-libraries-syntax.vim.git
+[submodule "home/.vim/plugged/jedi-vim"]
+	path = home/.vim/plugged/jedi-vim
+	url = https://github.com/davidhalter/jedi-vim.git
+[submodule "home/.vim/plugged/jsoncodecs.vim"]
+	path = home/.vim/plugged/jsoncodecs.vim
+	url = https://github.com/michalliu/jsoncodecs.vim.git
+[submodule "home/.vim/plugged/jsruntime.vim"]
+	path = home/.vim/plugged/jsruntime.vim
+	url = https://github.com/michalliu/jsruntime.vim.git
+[submodule "home/.vim/plugged/L9"]
+	path = home/.vim/plugged/L9
+	url = https://github.com/vim-scripts/L9.git
+[submodule "home/.vim/plugged/LearnVim"]
+	path = home/.vim/plugged/LearnVim
+	url = https://github.com/dahu/LearnVim.git
+[submodule "home/.vim/plugged/limelight.vim"]
+	path = home/.vim/plugged/limelight.vim
+	url = https://github.com/junegunn/limelight.vim.git
+[submodule "home/.vim/plugged/livestyle-vim"]
+	path = home/.vim/plugged/livestyle-vim
+	url = https://github.com/mattn/livestyle-vim.git
+[submodule "home/.vim/plugged/matchit.zip"]
+	path = home/.vim/plugged/matchit.zip
+	url = https://github.com/vim-scripts/matchit.zip.git
+[submodule "home/.vim/plugged/molokai"]
+	path = home/.vim/plugged/molokai
+	url = https://github.com/tomasr/molokai.git
+[submodule "home/.vim/plugged/mru.vim"]
+	path = home/.vim/plugged/mru.vim
+	url = https://github.com/vim-scripts/mru.vim.git
+[submodule "home/.vim/plugged/mustache.vim"]
+	path = home/.vim/plugged/mustache.vim
+	url = https://github.com/juvenn/mustache.vim.git
+[submodule "home/.vim/plugged/neco-ghc"]
+	path = home/.vim/plugged/neco-ghc
+	url = https://github.com/eagletmt/neco-ghc.git
+[submodule "home/.vim/plugged/neco-googlesuggest"]
+	path = home/.vim/plugged/neco-googlesuggest
+	url = https://github.com/sousu/neco-googlesuggest.git
+[submodule "home/.vim/plugged/neco-look"]
+	path = home/.vim/plugged/neco-look
+	url = https://github.com/ujihisa/neco-look.git
+[submodule "home/.vim/plugged/neco-syntax"]
+	path = home/.vim/plugged/neco-syntax
+	url = https://github.com/Shougo/neco-syntax.git
+[submodule "home/.vim/plugged/neco-vim"]
+	path = home/.vim/plugged/neco-vim
+	url = https://github.com/Shougo/neco-vim.git
+[submodule "home/.vim/plugged/neocomplcache.vim"]
+	path = home/.vim/plugged/neocomplcache.vim
+	url = https://github.com/Shougo/neocomplcache.vim.git
+[submodule "home/.vim/plugged/neocomplete.vim"]
+	path = home/.vim/plugged/neocomplete.vim
+	url = https://github.com/Shougo/neocomplete.vim.git
+[submodule "home/.vim/plugged/neoinclude.vim"]
+	path = home/.vim/plugged/neoinclude.vim
+	url = https://github.com/Shougo/neoinclude.vim.git
+[submodule "home/.vim/plugged/neomru.vim"]
+	path = home/.vim/plugged/neomru.vim
+	url = https://github.com/Shougo/neomru.vim.git
+[submodule "home/.vim/plugged/neosnippet"]
+	path = home/.vim/plugged/neosnippet
+	url = https://github.com/Shougo/neosnippet.git
+[submodule "home/.vim/plugged/neosnippet-snippets"]
+	path = home/.vim/plugged/neosnippet-snippets
+	url = https://github.com/Shougo/neosnippet-snippets.git
+[submodule "home/.vim/plugged/neossh.vim"]
+	path = home/.vim/plugged/neossh.vim
+	url = https://github.com/Shougo/neossh.vim.git
+[submodule "home/.vim/plugged/nerdcommenter"]
+	path = home/.vim/plugged/nerdcommenter
+	url = https://github.com/scrooloose/nerdcommenter.git
+[submodule "home/.vim/plugged/nerd-fonts"]
+	path = home/.vim/plugged/nerd-fonts
+	url = https://github.com/ryanoasis/nerd-fonts.git
+[submodule "home/.vim/plugged/nodelint"]
+	path = home/.vim/plugged/nodelint
+	url = https://github.com/tav/nodelint.git
+[submodule "home/.vim/plugged/node-vim-debugger"]
+	path = home/.vim/plugged/node-vim-debugger
+	url = https://github.com/sidorares/node-vim-debugger.git
+[submodule "home/.vim/plugged/NrrwRgn"]
+	path = home/.vim/plugged/NrrwRgn
+	url = https://github.com/chrisbra/NrrwRgn.git
+[submodule "home/.vim/plugged/omnisharp-vim"]
+	path = home/.vim/plugged/omnisharp-vim
+	url = https://github.com/OmniSharp/omnisharp-vim.git
+[submodule "home/.vim/plugged/papercolor-theme"]
+	path = home/.vim/plugged/papercolor-theme
+	url = https://github.com/NLKNguyen/papercolor-theme.git
+[submodule "home/.vim/plugged/paredit"]
+	path = home/.vim/plugged/paredit
+	url = https://github.com/kovisoft/paredit.git
+[submodule "home/.vim/plugged/pastebin-vim"]
+	path = home/.vim/plugged/pastebin-vim
+	url = https://github.com/mattn/pastebin-vim.git
+[submodule "home/.vim/plugged/pgsql.vim"]
+	path = home/.vim/plugged/pgsql.vim
+	url = https://github.com/exu/pgsql.vim.git
+[submodule "home/.vim/plugged/php.vim"]
+	path = home/.vim/plugged/php.vim
+	url = https://github.com/StanAngeloff/php.vim.git
+[submodule "home/.vim/plugged/PIV"]
+	path = home/.vim/plugged/PIV
+	url = https://github.com/spf13/PIV.git
+[submodule "home/.vim/plugged/plantuml-syntax"]
+	path = home/.vim/plugged/plantuml-syntax
+	url = https://github.com/aklt/plantuml-syntax.git
+[submodule "home/.vim/plugged/project.tar.gz"]
+	path = home/.vim/plugged/project.tar.gz
+	url = https://github.com/vim-scripts/project.tar.gz.git
+[submodule "home/.vim/plugged/pyclewn"]
+	path = home/.vim/plugged/pyclewn
+	url = https://github.com/xieyu/pyclewn.git
+[submodule "home/.vim/plugged/pydoc.vim"]
+	path = home/.vim/plugged/pydoc.vim
+	url = https://github.com/fs111/pydoc.vim.git
+[submodule "home/.vim/plugged/pytest.vim"]
+	path = home/.vim/plugged/pytest.vim
+	url = https://github.com/alfredodeza/pytest.vim.git
+[submodule "home/.vim/plugged/pythoncomplete"]
+	path = home/.vim/plugged/pythoncomplete
+	url = https://github.com/vim-scripts/pythoncomplete.git
+[submodule "home/.vim/plugged/python_match.vim"]
+	path = home/.vim/plugged/python_match.vim
+	url = https://github.com/vim-scripts/python_match.vim.git
+[submodule "home/.vim/plugged/python.vim"]
+	path = home/.vim/plugged/python.vim
+	url = https://github.com/yssource/python.vim.git
+[submodule "home/.vim/plugged/QQ.vim"]
+	path = home/.vim/plugged/QQ.vim
+	url = https://github.com/nicwest/QQ.vim.git
+[submodule "home/.vim/plugged/quickfixsigns_vim"]
+	path = home/.vim/plugged/quickfixsigns_vim
+	url = https://github.com/tomtom/quickfixsigns_vim.git
+[submodule "home/.vim/plugged/rake.vim"]
+	path = home/.vim/plugged/rake.vim
+	url = https://github.com/vim-scripts/rake.vim.git
+[submodule "home/.vim/plugged/rename.vim"]
+	path = home/.vim/plugged/rename.vim
+	url = https://github.com/danro/rename.vim.git
+[submodule "home/.vim/plugged/rust.vim"]
+	path = home/.vim/plugged/rust.vim
+	url = https://github.com/rust-lang/rust.vim.git
+[submodule "home/.vim/plugged/salt-vim"]
+	path = home/.vim/plugged/salt-vim
+	url = https://github.com/saltstack/salt-vim.git
+[submodule "home/.vim/plugged/seoul256.vim"]
+	path = home/.vim/plugged/seoul256.vim
+	url = https://github.com/junegunn/seoul256.vim.git
+[submodule "home/.vim/plugged/sessionman.vim"]
+	path = home/.vim/plugged/sessionman.vim
+	url = https://github.com/vim-scripts/sessionman.vim.git
+[submodule "home/.vim/plugged/snipmate_for_django"]
+	path = home/.vim/plugged/snipmate_for_django
+	url = https://github.com/robhudson/snipmate_for_django.git
+[submodule "home/.vim/plugged/snipmate-nodejs"]
+	path = home/.vim/plugged/snipmate-nodejs
+	url = https://github.com/jamescarr/snipmate-nodejs.git
+[submodule "home/.vim/plugged/sourcebeautify.vim"]
+	path = home/.vim/plugged/sourcebeautify.vim
+	url = https://github.com/michalliu/sourcebeautify.vim.git
+[submodule "home/.vim/plugged/SQLComplete.vim"]
+	path = home/.vim/plugged/SQLComplete.vim
+	url = https://github.com/vim-scripts/SQLComplete.vim.git
+[submodule "home/.vim/plugged/SQLUtilities"]
+	path = home/.vim/plugged/SQLUtilities
+	url = https://github.com/jphustman/SQLUtilities.git
+[submodule "home/.vim/plugged/SrcExpl"]
+	path = home/.vim/plugged/SrcExpl
+	url = https://github.com/wesleyche/SrcExpl.git
+[submodule "home/.vim/plugged/supertab"]
+	path = home/.vim/plugged/supertab
+	url = https://github.com/ervandew/supertab.git
+[submodule "home/.vim/plugged/syntastic"]
+	path = home/.vim/plugged/syntastic
+	url = https://github.com/scrooloose/syntastic.git
+[submodule "home/.vim/plugged/SyntaxRange"]
+	path = home/.vim/plugged/SyntaxRange
+	url = https://github.com/vim-scripts/SyntaxRange.git
+[submodule "home/.vim/plugged/tabular"]
+	path = home/.vim/plugged/tabular
+	url = https://github.com/godlygeek/tabular.git
+[submodule "home/.vim/plugged/tagbar"]
+	path = home/.vim/plugged/tagbar
+	url = https://github.com/majutsushi/tagbar.git
+[submodule "home/.vim/plugged/TaskList.vim"]
+	path = home/.vim/plugged/TaskList.vim
+	url = https://github.com/vim-scripts/TaskList.vim.git
+[submodule "home/.vim/plugged/terminus"]
+	path = home/.vim/plugged/terminus
+	url = https://github.com/wincent/terminus.git
+[submodule "home/.vim/plugged/tern_for_vim"]
+	path = home/.vim/plugged/tern_for_vim
+	url = https://github.com/marijnh/tern_for_vim.git
+[submodule "home/.vim/plugged/tlib_vim"]
+	path = home/.vim/plugged/tlib_vim
+	url = https://github.com/tomtom/tlib_vim.git
+[submodule "home/.vim/plugged/tmuxline.vim"]
+	path = home/.vim/plugged/tmuxline.vim
+	url = https://github.com/edkolev/tmuxline.vim.git
+[submodule "home/.vim/plugged/travis.vim"]
+	path = home/.vim/plugged/travis.vim
+	url = https://github.com/keith/travis.vim.git
+[submodule "home/.vim/plugged/ultisnips"]
+	path = home/.vim/plugged/ultisnips
+	url = https://github.com/SirVer/ultisnips.git
+[submodule "home/.vim/plugged/Ultisnips-neocomplete-unite"]
+	path = home/.vim/plugged/Ultisnips-neocomplete-unite
+	url = https://github.com/skeept/Ultisnips-neocomplete-unite.git
+[submodule "home/.vim/plugged/undotree"]
+	path = home/.vim/plugged/undotree
+	url = https://github.com/mbbill/undotree.git
+[submodule "home/.vim/plugged/unicode.vim"]
+	path = home/.vim/plugged/unicode.vim
+	url = https://github.com/chrisbra/unicode.vim.git
+[submodule "home/.vim/plugged/unite-outline"]
+	path = home/.vim/plugged/unite-outline
+	url = https://github.com/Shougo/unite-outline.git
+[submodule "home/.vim/plugged/unite-session"]
+	path = home/.vim/plugged/unite-session
+	url = https://github.com/Shougo/unite-session.git
+[submodule "home/.vim/plugged/unite-tag"]
+	path = home/.vim/plugged/unite-tag
+	url = https://github.com/tsukkee/unite-tag.git
+[submodule "home/.vim/plugged/unite.vim"]
+	path = home/.vim/plugged/unite.vim
+	url = https://github.com/Shougo/unite.vim.git
+[submodule "home/.vim/plugged/utl.vim"]
+	path = home/.vim/plugged/utl.vim
+	url = https://github.com/vim-scripts/utl.vim.git
+[submodule "home/.vim/plugged/vader.vim"]
+	path = home/.vim/plugged/vader.vim
+	url = https://github.com/junegunn/vader.vim.git
+[submodule "home/.vim/plugged/vbnet.vim"]
+	path = home/.vim/plugged/vbnet.vim
+	url = https://github.com/vim-scripts/vbnet.vim.git
+[submodule "home/.vim/plugged/vdebug"]
+	path = home/.vim/plugged/vdebug
+	url = https://github.com/joonty/vdebug.git
+[submodule "home/.vim/plugged/vim2hs"]
+	path = home/.vim/plugged/vim2hs
+	url = https://github.com/dag/vim2hs.git
+[submodule "home/.vim/plugged/vim-abolish"]
+	path = home/.vim/plugged/vim-abolish
+	url = https://github.com/tpope/vim-abolish.git
+[submodule "home/.vim/plugged/vim-addon-completion"]
+	path = home/.vim/plugged/vim-addon-completion
+	url = https://github.com/vim-scripts/vim-addon-completion.git
+[submodule "home/.vim/plugged/vim-addon-mw-utils"]
+	path = home/.vim/plugged/vim-addon-mw-utils
+	url = https://github.com/MarcWeber/vim-addon-mw-utils.git
+[submodule "home/.vim/plugged/vim-addon-sql"]
+	path = home/.vim/plugged/vim-addon-sql
+	url = https://github.com/vim-scripts/vim-addon-sql.git
+[submodule "home/.vim/plugged/vim-afterimage"]
+	path = home/.vim/plugged/vim-afterimage
+	url = https://github.com/tpope/vim-afterimage.git
+[submodule "home/.vim/plugged/vim-airline"]
+	path = home/.vim/plugged/vim-airline
+	url = https://github.com/bling/vim-airline.git
+[submodule "home/.vim/plugged/vim-alt-mappings"]
+	path = home/.vim/plugged/vim-alt-mappings
+	url = https://github.com/bruno-/vim-alt-mappings.git
+[submodule "home/.vim/plugged/vim-android"]
+	path = home/.vim/plugged/vim-android
+	url = https://github.com/hsanson/vim-android.git
+[submodule "home/.vim/plugged/vim-aspnetide"]
+	path = home/.vim/plugged/vim-aspnetide
+	url = https://github.com/bryanthankins/vim-aspnetide.git
+[submodule "home/.vim/plugged/vim-autoclose"]
+	path = home/.vim/plugged/vim-autoclose
+	url = https://github.com/spf13/vim-autoclose.git
+[submodule "home/.vim/plugged/vim-autoformat"]
+	path = home/.vim/plugged/vim-autoformat
+	url = https://github.com/Chiel92/vim-autoformat.git
+[submodule "home/.vim/plugged/vim-auto-save"]
+	path = home/.vim/plugged/vim-auto-save
+	url = https://github.com/vim-scripts/vim-auto-save.git
+[submodule "home/.vim/plugged/Vimazing"]
+	path = home/.vim/plugged/Vimazing
+	url = https://github.com/dahu/Vimazing.git
+[submodule "home/.vim/plugged/vim-behave"]
+	path = home/.vim/plugged/vim-behave
+	url = https://github.com/rooprob/vim-behave.git
+[submodule "home/.vim/plugged/vim-bufferline"]
+	path = home/.vim/plugged/vim-bufferline
+	url = https://github.com/bling/vim-bufferline.git
+[submodule "home/.vim/plugged/vim-coffee-script"]
+	path = home/.vim/plugged/vim-coffee-script
+	url = https://github.com/kchmck/vim-coffee-script.git
+[submodule "home/.vim/plugged/vim-coloresque"]
+	path = home/.vim/plugged/vim-coloresque
+	url = https://github.com/gorodinskiy/vim-coloresque.git
+[submodule "home/.vim/plugged/vim-colors"]
+	path = home/.vim/plugged/vim-colors
+	url = https://github.com/spf13/vim-colors.git
+[submodule "home/.vim/plugged/vim-colorschemes"]
+	path = home/.vim/plugged/vim-colorschemes
+	url = https://github.com/flazz/vim-colorschemes.git
+[submodule "home/.vim/plugged/vim-colors-solarized"]
+	path = home/.vim/plugged/vim-colors-solarized
+	url = https://github.com/altercation/vim-colors-solarized.git
+[submodule "home/.vim/plugged/vim-colortuner"]
+	path = home/.vim/plugged/vim-colortuner
+	url = https://github.com/zefei/vim-colortuner.git
+[submodule "home/.vim/plugged/vim-commentary"]
+	path = home/.vim/plugged/vim-commentary
+	url = https://github.com/tpope/vim-commentary.git
+[submodule "home/.vim/plugged/vim-compile"]
+	path = home/.vim/plugged/vim-compile
+	url = https://github.com/dbeniamine/vim-compile.git
+[submodule "home/.vim/plugged/vim-cpp"]
+	path = home/.vim/plugged/vim-cpp
+	url = https://github.com/vim-jp/vim-cpp.git
+[submodule "home/.vim/plugged/vim-csharp"]
+	path = home/.vim/plugged/vim-csharp
+	url = https://github.com/OrangeT/vim-csharp.git
+[submodule "home/.vim/plugged/vim-css3-syntax"]
+	path = home/.vim/plugged/vim-css3-syntax
+	url = https://github.com/hail2u/vim-css3-syntax.git
+[submodule "home/.vim/plugged/vim-css-color"]
+	path = home/.vim/plugged/vim-css-color
+	url = https://github.com/ap/vim-css-color.git
+[submodule "home/.vim/plugged/vim-ctrlp-cmdpalette"]
+	path = home/.vim/plugged/vim-ctrlp-cmdpalette
+	url = https://github.com/fisadev/vim-ctrlp-cmdpalette.git
+[submodule "home/.vim/plugged/vim-ctrlspace"]
+	path = home/.vim/plugged/vim-ctrlspace
+	url = https://github.com/szw/vim-ctrlspace.git
+[submodule "home/.vim/plugged/vim-cucumber"]
+	path = home/.vim/plugged/vim-cucumber
+	url = https://github.com/tpope/vim-cucumber.git
+[submodule "home/.vim/plugged/vim-cucumber-align-pipes"]
+	path = home/.vim/plugged/vim-cucumber-align-pipes
+	url = https://github.com/quentindecock/vim-cucumber-align-pipes.git
+[submodule "home/.vim/plugged/vim-cute-python"]
+	path = home/.vim/plugged/vim-cute-python
+	url = https://github.com/ehamberg/vim-cute-python.git
+[submodule "home/.vim/plugged/vim-devicons"]
+	path = home/.vim/plugged/vim-devicons
+	url = https://github.com/ryanoasis/vim-devicons.git
+[submodule "home/.vim/plugged/vim-dispatch"]
+	path = home/.vim/plugged/vim-dispatch
+	url = https://github.com/tpope/vim-dispatch.git
+[submodule "home/.vim/plugged/vim-distinguished"]
+	path = home/.vim/plugged/vim-distinguished
+	url = https://github.com/Lokaltog/vim-distinguished.git
+[submodule "home/.vim/plugged/vim-django-test"]
+	path = home/.vim/plugged/vim-django-test
+	url = https://github.com/chongkim/vim-django-test.git
+[submodule "home/.vim/plugged/vim-easy-align"]
+	path = home/.vim/plugged/vim-easy-align
+	url = https://github.com/junegunn/vim-easy-align.git
+[submodule "home/.vim/plugged/vim-easymotion"]
+	path = home/.vim/plugged/vim-easymotion
+	url = https://github.com/Lokaltog/vim-easymotion.git
+[submodule "home/.vim/plugged/vim-easytags"]
+	path = home/.vim/plugged/vim-easytags
+	url = https://github.com/Xolox/vim-easytags.git
+[submodule "home/.vim/plugged/vim-elixir"]
+	path = home/.vim/plugged/vim-elixir
+	url = https://github.com/elixir-lang/vim-elixir.git
+[submodule "home/.vim/plugged/vim-erroneous"]
+	path = home/.vim/plugged/vim-erroneous
+	url = https://github.com/idanarye/vim-erroneous.git
+[submodule "home/.vim/plugged/vim-expand-region"]
+	path = home/.vim/plugged/vim-expand-region
+	url = https://github.com/terryma/vim-expand-region.git
+[submodule "home/.vim/plugged/vim-fidget"]
+	path = home/.vim/plugged/vim-fidget
+	url = https://github.com/mohitleo9/vim-fidget.git
+[submodule "home/.vim/plugged/vimfiler.vim"]
+	path = home/.vim/plugged/vimfiler.vim
+	url = https://github.com/Shougo/vimfiler.vim.git
+[submodule "home/.vim/plugged/vim-fireplace"]
+	path = home/.vim/plugged/vim-fireplace
+	url = https://github.com/tpope/vim-fireplace.git
+[submodule "home/.vim/plugged/vim-fish"]
+	path = home/.vim/plugged/vim-fish
+	url = https://github.com/dag/vim-fish.git
+[submodule "home/.vim/plugged/vim-fugitive"]
+	path = home/.vim/plugged/vim-fugitive
+	url = https://github.com/tpope/vim-fugitive.git
+[submodule "home/.vim/plugged/vim-fuzzyfinder"]
+	path = home/.vim/plugged/vim-fuzzyfinder
+	url = https://github.com/slack/vim-fuzzyfinder.git
+[submodule "home/.vim/plugged/vim-git"]
+	path = home/.vim/plugged/vim-git
+	url = https://github.com/tpope/vim-git.git
+[submodule "home/.vim/plugged/vim-gitgutter"]
+	path = home/.vim/plugged/vim-gitgutter
+	url = https://github.com/airblade/vim-gitgutter.git
+[submodule "home/.vim/plugged/vim-github-dashboard"]
+	path = home/.vim/plugged/vim-github-dashboard
+	url = https://github.com/junegunn/vim-github-dashboard.git
+[submodule "home/.vim/plugged/vim-git-log"]
+	path = home/.vim/plugged/vim-git-log
+	url = https://github.com/kablamo/vim-git-log.git
+[submodule "home/.vim/plugged/vim-go"]
+	path = home/.vim/plugged/vim-go
+	url = https://github.com/fatih/vim-go.git
+[submodule "home/.vim/plugged/vim-gocode"]
+	path = home/.vim/plugged/vim-gocode
+	url = https://github.com/Blackrush/vim-gocode.git
+[submodule "home/.vim/plugged/vim-gradle"]
+	path = home/.vim/plugged/vim-gradle
+	url = https://github.com/tfnico/vim-gradle.git
+[submodule "home/.vim/plugged/VimGym"]
+	path = home/.vim/plugged/VimGym
+	url = https://github.com/dahu/VimGym.git
+[submodule "home/.vim/plugged/vim-haml"]
+	path = home/.vim/plugged/vim-haml
+	url = https://github.com/tpope/vim-haml.git
+[submodule "home/.vim/plugged/vim-haskellConceal"]
+	path = home/.vim/plugged/vim-haskellConceal
+	url = https://github.com/Twinside/vim-haskellConceal.git
+[submodule "home/.vim/plugged/vim-haskellFold"]
+	path = home/.vim/plugged/vim-haskellFold
+	url = https://github.com/Twinside/vim-haskellFold.git
+[submodule "home/.vim/plugged/vim-hdevtools"]
+	path = home/.vim/plugged/vim-hdevtools
+	url = https://github.com/bitc/vim-hdevtools.git
+[submodule "home/.vim/plugged/vim-help"]
+	path = home/.vim/plugged/vim-help
+	url = https://github.com/dahu/vim-help.git
+[submodule "home/.vim/plugged/vim-hemisu"]
+	path = home/.vim/plugged/vim-hemisu
+	url = https://github.com/noahfrederick/vim-hemisu.git
+[submodule "home/.vim/plugged/vim-heroku"]
+	path = home/.vim/plugged/vim-heroku
+	url = https://github.com/tpope/vim-heroku.git
+[submodule "home/.vim/plugged/vim-htmldjango_omnicomplete"]
+	path = home/.vim/plugged/vim-htmldjango_omnicomplete
+	url = https://github.com/mjbrownie/vim-htmldjango_omnicomplete.git
+[submodule "home/.vim/plugged/vim-indent-guides"]
+	path = home/.vim/plugged/vim-indent-guides
+	url = https://github.com/nathanaelkane/vim-indent-guides.git
+[submodule "home/.vim/plugged/vim-jade"]
+	path = home/.vim/plugged/vim-jade
+	url = https://github.com/digitaltoad/vim-jade.git
+[submodule "home/.vim/plugged/vim-javacomplete2"]
+	path = home/.vim/plugged/vim-javacomplete2
+	url = https://github.com/artur-shaik/vim-javacomplete2.git
+[submodule "home/.vim/plugged/vim-javascript"]
+	path = home/.vim/plugged/vim-javascript
+	url = https://github.com/pangloss/vim-javascript.git
+[submodule "home/.vim/plugged/vim-javascript-syntax"]
+	path = home/.vim/plugged/vim-javascript-syntax
+	url = https://github.com/jelera/vim-javascript-syntax.git
+[submodule "home/.vim/plugged/vim-jsbeautify"]
+	path = home/.vim/plugged/vim-jsbeautify
+	url = https://github.com/vim-scripts/vim-jsbeautify.git
+[submodule "home/.vim/plugged/vim-json"]
+	path = home/.vim/plugged/vim-json
+	url = https://github.com/elzr/vim-json.git
+[submodule "home/.vim/plugged/vim-jst"]
+	path = home/.vim/plugged/vim-jst
+	url = https://github.com/briancollins/vim-jst.git
+[submodule "home/.vim/plugged/vim-lambdify"]
+	path = home/.vim/plugged/vim-lambdify
+	url = https://github.com/calebsmith/vim-lambdify.git
+[submodule "home/.vim/plugged/vim-latex-live-preview"]
+	path = home/.vim/plugged/vim-latex-live-preview
+	url = https://github.com/xuhdev/vim-latex-live-preview.git
+[submodule "home/.vim/plugged/vim-less"]
+	path = home/.vim/plugged/vim-less
+	url = https://github.com/groenewege/vim-less.git
+[submodule "home/.vim/plugged/vim-liquid"]
+	path = home/.vim/plugged/vim-liquid
+	url = https://github.com/tpope/vim-liquid.git
+[submodule "home/.vim/plugged/vim-logcat"]
+	path = home/.vim/plugged/vim-logcat
+	url = https://github.com/thinca/vim-logcat.git
+[submodule "home/.vim/plugged/vim-makegreen"]
+	path = home/.vim/plugged/vim-makegreen
+	url = https://github.com/reinh/vim-makegreen.git
+[submodule "home/.vim/plugged/vim-maktaba"]
+	path = home/.vim/plugged/vim-maktaba
+	url = https://github.com/google/vim-maktaba.git
+[submodule "home/.vim/plugged/vim-man"]
+	path = home/.vim/plugged/vim-man
+	url = https://github.com/bruno-/vim-man.git
+[submodule "home/.vim/plugged/vim-markdown"]
+	path = home/.vim/plugged/vim-markdown
+	url = https://github.com/plasticboy/vim-markdown.git
+[submodule "home/.vim/plugged/vim-markdownfootnotes"]
+	path = home/.vim/plugged/vim-markdownfootnotes
+	url = https://github.com/vim-pandoc/vim-markdownfootnotes.git
+[submodule "home/.vim/plugged/vim-misc"]
+	path = home/.vim/plugged/vim-misc
+	url = https://github.com/Xolox/vim-misc.git
+[submodule "home/.vim/plugged/vim-mix"]
+	path = home/.vim/plugged/vim-mix
+	url = https://github.com/mattreduce/vim-mix.git
+[submodule "home/.vim/plugged/vim-multiple-cursors"]
+	path = home/.vim/plugged/vim-multiple-cursors
+	url = https://github.com/terryma/vim-multiple-cursors.git
+[submodule "home/.vim/plugged/vim-mundo"]
+	path = home/.vim/plugged/vim-mundo
+	url = https://github.com/simnalamburt/vim-mundo.git
+[submodule "home/.vim/plugged/vim-mustache-handlebars"]
+	path = home/.vim/plugged/vim-mustache-handlebars
+	url = https://github.com/mustache/vim-mustache-handlebars.git
+[submodule "home/.vim/plugged/vim-muttmail"]
+	path = home/.vim/plugged/vim-muttmail
+	url = https://github.com/svenXY/vim-muttmail.git
+[submodule "home/.vim/plugged/vim-neco-calc"]
+	path = home/.vim/plugged/vim-neco-calc
+	url = https://github.com/hrsh7th/vim-neco-calc.git
+[submodule "home/.vim/plugged/vim-nginx"]
+	path = home/.vim/plugged/vim-nginx
+	url = https://github.com/13k/vim-nginx.git
+[submodule "home/.vim/plugged/vim-node"]
+	path = home/.vim/plugged/vim-node
+	url = https://github.com/moll/vim-node.git
+[submodule "home/.vim/plugged/vim-node-dict"]
+	path = home/.vim/plugged/vim-node-dict
+	url = https://github.com/guileen/vim-node-dict.git
+[submodule "home/.vim/plugged/vim-notes"]
+	path = home/.vim/plugged/vim-notes
+	url = https://github.com/Xolox/vim-notes.git
+[submodule "home/.vim/plugged/vim-numbertoggle"]
+	path = home/.vim/plugged/vim-numbertoggle
+	url = https://github.com/jeffkreeftmeijer/vim-numbertoggle.git
+[submodule "home/.vim/plugged/vim-obsession"]
+	path = home/.vim/plugged/vim-obsession
+	url = https://github.com/tpope/vim-obsession.git
+[submodule "home/.vim/plugged/vim-orgmode"]
+	path = home/.vim/plugged/vim-orgmode
+	url = https://github.com/jceb/vim-orgmode.git
+[submodule "home/.vim/plugged/vimoutliner"]
+	path = home/.vim/plugged/vimoutliner
+	url = https://github.com/vimoutliner/vimoutliner.git
+[submodule "home/.vim/plugged/vim-over"]
+	path = home/.vim/plugged/vim-over
+	url = https://github.com/osyo-manga/vim-over.git
+[submodule "home/.vim/plugged/vim-pad"]
+	path = home/.vim/plugged/vim-pad
+	url = https://github.com/fmoralesc/vim-pad.git
+[submodule "home/.vim/plugged/vim-pandoc"]
+	path = home/.vim/plugged/vim-pandoc
+	url = https://github.com/vim-pandoc/vim-pandoc.git
+[submodule "home/.vim/plugged/vim-pandoc-after"]
+	path = home/.vim/plugged/vim-pandoc-after
+	url = https://github.com/vim-pandoc/vim-pandoc-after.git
+[submodule "home/.vim/plugged/vim-pandoc-syntax"]
+	path = home/.vim/plugged/vim-pandoc-syntax
+	url = https://github.com/vim-pandoc/vim-pandoc-syntax.git
+[submodule "home/.vim/plugged/vimpdb"]
+	path = home/.vim/plugged/vimpdb
+	url = https://github.com/gotcha/vimpdb.git
+[submodule "home/.vim/plugged/vim-pencil"]
+	path = home/.vim/plugged/vim-pencil
+	url = https://github.com/reedes/vim-pencil.git
+[submodule "home/.vim/plugged/vim-php-namespace"]
+	path = home/.vim/plugged/vim-php-namespace
+	url = https://github.com/arnaud-lb/vim-php-namespace.git
+[submodule "home/.vim/plugged/vim-plugins"]
+	path = home/.vim/plugged/vim-plugins
+	url = https://github.com/wolfgangmehner/vim-plugins.git
+[submodule "home/.vim/plugged/vim-plugin-viewdoc"]
+	path = home/.vim/plugged/vim-plugin-viewdoc
+	url = https://github.com/powerman/vim-plugin-viewdoc.git
+[submodule "home/.vim/plugged/vim-polyglot"]
+	path = home/.vim/plugged/vim-polyglot
+	url = https://github.com/sheerun/vim-polyglot.git
+[submodule "home/.vim/plugged/vim-pony"]
+	path = home/.vim/plugged/vim-pony
+	url = https://github.com/jmcomets/vim-pony.git
+[submodule "home/.vim/plugged/vim-preview"]
+	path = home/.vim/plugged/vim-preview
+	url = https://github.com/spf13/vim-preview.git
+[submodule "home/.vim/plugged/vimpreviewpandoc"]
+	path = home/.vim/plugged/vimpreviewpandoc
+	url = https://github.com/tex/vimpreviewpandoc.git
+[submodule "home/.vim/plugged/vim-processing"]
+	path = home/.vim/plugged/vim-processing
+	url = https://github.com/sophacles/vim-processing.git
+[submodule "home/.vim/plugged/vimproc.vim"]
+	path = home/.vim/plugged/vimproc.vim
+	url = https://github.com/Shougo/vimproc.vim.git
+[submodule "home/.vim/plugged/vim-projectionist"]
+	path = home/.vim/plugged/vim-projectionist
+	url = https://github.com/tpope/vim-projectionist.git
+[submodule "home/.vim/plugged/vim-projectroot"]
+	path = home/.vim/plugged/vim-projectroot
+	url = https://github.com/dbakker/vim-projectroot.git
+[submodule "home/.vim/plugged/vim-publish-helper"]
+	path = home/.vim/plugged/vim-publish-helper
+	url = https://github.com/lyokha/vim-publish-helper.git
+[submodule "home/.vim/plugged/vim-puppet"]
+	path = home/.vim/plugged/vim-puppet
+	url = https://github.com/rodjek/vim-puppet.git
+[submodule "home/.vim/plugged/vim-python-test-runner"]
+	path = home/.vim/plugged/vim-python-test-runner
+	url = https://github.com/JarrodCTaylor/vim-python-test-runner.git
+[submodule "home/.vim/plugged/vim-qf"]
+	path = home/.vim/plugged/vim-qf
+	url = https://github.com/romainl/vim-qf.git
+[submodule "home/.vim/plugged/vim-quickhl"]
+	path = home/.vim/plugged/vim-quickhl
+	url = https://github.com/t9md/vim-quickhl.git
+[submodule "home/.vim/plugged/vim-racer"]
+	path = home/.vim/plugged/vim-racer
+	url = https://github.com/ebfe/vim-racer.git
+[submodule "home/.vim/plugged/vim-ragtag"]
+	path = home/.vim/plugged/vim-ragtag
+	url = https://github.com/tpope/vim-ragtag.git
+[submodule "home/.vim/plugged/vim-rails"]
+	path = home/.vim/plugged/vim-rails
+	url = https://github.com/tpope/vim-rails.git
+[submodule "home/.vim/plugged/vim-ranger"]
+	path = home/.vim/plugged/vim-ranger
+	url = https://github.com/Mizuchi/vim-ranger.git
+[submodule "home/.vim/plugged/VimRegexTutor"]
+	path = home/.vim/plugged/VimRegexTutor
+	url = https://github.com/dahu/VimRegexTutor.git
+[submodule "home/.vim/plugged/vim-repeat"]
+	path = home/.vim/plugged/vim-repeat
+	url = https://github.com/tpope/vim-repeat.git
+[submodule "home/.vim/plugged/vim-rest-console"]
+	path = home/.vim/plugged/vim-rest-console
+	url = https://github.com/diepm/vim-rest-console.git
+[submodule "home/.vim/plugged/vim-rhubarb"]
+	path = home/.vim/plugged/vim-rhubarb
+	url = https://github.com/tpope/vim-rhubarb.git
+[submodule "home/.vim/plugged/vim-rmarkdown"]
+	path = home/.vim/plugged/vim-rmarkdown
+	url = https://github.com/vim-pandoc/vim-rmarkdown.git
+[submodule "home/.vim/plugged/vim-rooter"]
+	path = home/.vim/plugged/vim-rooter
+	url = https://github.com/airblade/vim-rooter.git
+[submodule "home/.vim/plugged/Vim-R-plugin"]
+	path = home/.vim/plugged/Vim-R-plugin
+	url = https://github.com/vim-scripts/Vim-R-plugin.git
+[submodule "home/.vim/plugged/vim-rspec"]
+	path = home/.vim/plugged/vim-rspec
+	url = https://github.com/thoughtbot/vim-rspec.git
+[submodule "home/.vim/plugged/vim-ruby"]
+	path = home/.vim/plugged/vim-ruby
+	url = https://github.com/vim-ruby/vim-ruby.git
+[submodule "home/.vim/plugged/vim-sbt"]
+	path = home/.vim/plugged/vim-sbt
+	url = https://github.com/derekwyatt/vim-sbt.git
+[submodule "home/.vim/plugged/vim-scala"]
+	path = home/.vim/plugged/vim-scala
+	url = https://github.com/derekwyatt/vim-scala.git
+[submodule "home/.vim/plugged/vimshell.vim"]
+	path = home/.vim/plugged/vimshell.vim
+	url = https://github.com/Shougo/vimshell.vim.git
+[submodule "home/.vim/plugged/vim-signify"]
+	path = home/.vim/plugged/vim-signify
+	url = https://github.com/mhinz/vim-signify.git
+[submodule "home/.vim/plugged/vim-smooth-scroll"]
+	path = home/.vim/plugged/vim-smooth-scroll
+	url = https://github.com/terryma/vim-smooth-scroll.git
+[submodule "home/.vim/plugged/vim-snippets"]
+	path = home/.vim/plugged/vim-snippets
+	url = https://github.com/honza/vim-snippets.git
+[submodule "home/.vim/plugged/vim-speeddating"]
+	path = home/.vim/plugged/vim-speeddating
+	url = https://github.com/tpope/vim-speeddating.git
+[submodule "home/.vim/plugged/vim-startify"]
+	path = home/.vim/plugged/vim-startify
+	url = https://github.com/mhinz/vim-startify.git
+[submodule "home/.vim/plugged/vim-stay"]
+	path = home/.vim/plugged/vim-stay
+	url = https://github.com/vim-scripts/vim-stay.git
+[submodule "home/.vim/plugged/vim-stylus"]
+	path = home/.vim/plugged/vim-stylus
+	url = https://github.com/wavded/vim-stylus.git
+[submodule "home/.vim/plugged/vim-submode"]
+	path = home/.vim/plugged/vim-submode
+	url = https://github.com/kana/vim-submode.git
+[submodule "home/.vim/plugged/vim-surround"]
+	path = home/.vim/plugged/vim-surround
+	url = https://github.com/tpope/vim-surround.git
+[submodule "home/.vim/plugged/vim-syntax-extra"]
+	path = home/.vim/plugged/vim-syntax-extra
+	url = https://github.com/justinmk/vim-syntax-extra.git
+[submodule "home/.vim/plugged/vim-table-mode"]
+	path = home/.vim/plugged/vim-table-mode
+	url = https://github.com/dhruvasagar/vim-table-mode.git
+[submodule "home/.vim/plugged/vim-taskwarrior"]
+	path = home/.vim/plugged/vim-taskwarrior
+	url = https://github.com/farseer90718/vim-taskwarrior.git
+[submodule "home/.vim/plugged/vim-test"]
+	path = home/.vim/plugged/vim-test
+	url = https://github.com/janko-m/vim-test.git
+[submodule "home/.vim/plugged/vimtex"]
+	path = home/.vim/plugged/vimtex
+	url = https://github.com/lervag/vimtex.git
+[submodule "home/.vim/plugged/vim-tex-fold"]
+	path = home/.vim/plugged/vim-tex-fold
+	url = https://github.com/matze/vim-tex-fold.git
+[submodule "home/.vim/plugged/vim-textobj-indent"]
+	path = home/.vim/plugged/vim-textobj-indent
+	url = https://github.com/kana/vim-textobj-indent.git
+[submodule "home/.vim/plugged/vim-textobj-quote"]
+	path = home/.vim/plugged/vim-textobj-quote
+	url = https://github.com/reedes/vim-textobj-quote.git
+[submodule "home/.vim/plugged/vim-textobj-sentence"]
+	path = home/.vim/plugged/vim-textobj-sentence
+	url = https://github.com/reedes/vim-textobj-sentence.git
+[submodule "home/.vim/plugged/vim-textobj-user"]
+	path = home/.vim/plugged/vim-textobj-user
+	url = https://github.com/kana/vim-textobj-user.git
+[submodule "home/.vim/plugged/vim-textobj-xmlattr"]
+	path = home/.vim/plugged/vim-textobj-xmlattr
+	url = https://github.com/whatyouhide/vim-textobj-xmlattr.git
+[submodule "home/.vim/plugged/vim-thematic"]
+	path = home/.vim/plugged/vim-thematic
+	url = https://github.com/reedes/vim-thematic.git
+[submodule "home/.vim/plugged/vim-tmux"]
+	path = home/.vim/plugged/vim-tmux
+	url = https://github.com/tmux-plugins/vim-tmux.git
+[submodule "home/.vim/plugged/vim-tmux-navigator"]
+	path = home/.vim/plugged/vim-tmux-navigator
+	url = https://github.com/christoomey/vim-tmux-navigator.git
+[submodule "home/.vim/plugged/vim-toml"]
+	path = home/.vim/plugged/vim-toml
+	url = https://github.com/cespare/vim-toml.git
+[submodule "home/.vim/plugged/vim-trailing-whitespace"]
+	path = home/.vim/plugged/vim-trailing-whitespace
+	url = https://github.com/bronson/vim-trailing-whitespace.git
+[submodule "home/.vim/plugged/vim-tutor-mode"]
+	path = home/.vim/plugged/vim-tutor-mode
+	url = https://github.com/fmoralesc/vim-tutor-mode.git
+[submodule "home/.vim/plugged/vim-twig"]
+	path = home/.vim/plugged/vim-twig
+	url = https://github.com/beyondwords/vim-twig.git
+[submodule "home/.vim/plugged/vim-unite-giti"]
+	path = home/.vim/plugged/vim-unite-giti
+	url = https://github.com/kmnk/vim-unite-giti.git
+[submodule "home/.vim/plugged/vim-unite-history"]
+	path = home/.vim/plugged/vim-unite-history
+	url = https://github.com/thinca/vim-unite-history.git
+[submodule "home/.vim/plugged/vim-vebugger"]
+	path = home/.vim/plugged/vim-vebugger
+	url = https://github.com/idanarye/vim-vebugger.git
+[submodule "home/.vim/plugged/vim-vinegar"]
+	path = home/.vim/plugged/vim-vinegar
+	url = https://github.com/tpope/vim-vinegar.git
+[submodule "home/.vim/plugged/vim-virtualenv"]
+	path = home/.vim/plugged/vim-virtualenv
+	url = https://github.com/jmcantrell/vim-virtualenv.git
+[submodule "home/.vim/plugged/vim-visualstudio"]
+	path = home/.vim/plugged/vim-visualstudio
+	url = https://github.com/taku25/vim-visualstudio.git
+[submodule "home/.vim/plugged/vim-watchdogs"]
+	path = home/.vim/plugged/vim-watchdogs
+	url = https://github.com/osyo-manga/vim-watchdogs.git
+[submodule "home/.vim/plugged/vimwiki"]
+	path = home/.vim/plugged/vimwiki
+	url = https://github.com/vimwiki/vimwiki.git
+[submodule "home/.vim/plugged/vim-wordy"]
+	path = home/.vim/plugged/vim-wordy
+	url = https://github.com/reedes/vim-wordy.git
+[submodule "home/.vim/plugged/vim-xml-autons"]
+	path = home/.vim/plugged/vim-xml-autons
+	url = https://github.com/kana/vim-xml-autons.git
+[submodule "home/.vim/plugged/vinarise.vim"]
+	path = home/.vim/plugged/vinarise.vim
+	url = https://github.com/Shougo/vinarise.vim.git
+[submodule "home/.vim/plugged/vinfo"]
+	path = home/.vim/plugged/vinfo
+	url = https://github.com/alx741/vinfo.git
+[submodule "home/.vim/plugged/vison"]
+	path = home/.vim/plugged/vison
+	url = https://github.com/Quramy/vison.git
+[submodule "home/.vim/plugged/visual_studio.vim"]
+	path = home/.vim/plugged/visual_studio.vim
+	url = https://github.com/vim-scripts/visual_studio.vim.git
+[submodule "home/.vim/plugged/vorax4"]
+	path = home/.vim/plugged/vorax4
+	url = https://github.com/talek/vorax4.git
+[submodule "home/.vim/plugged/vundle"]
+	path = home/.vim/plugged/vundle
+	url = https://github.com/gmarik/vundle.git
+[submodule "home/.vim/plugged/w3m.vim"]
+	path = home/.vim/plugged/w3m.vim
+	url = https://github.com/yuratomo/w3m.vim.git
+[submodule "home/.vim/plugged/webapi-vim"]
+	path = home/.vim/plugged/webapi-vim
+	url = https://github.com/mattn/webapi-vim.git
+[submodule "home/.vim/plugged/wildfire.vim"]
+	path = home/.vim/plugged/wildfire.vim
+	url = https://github.com/gcmt/wildfire.vim.git
+[submodule "home/.vim/plugged/XML-Completion"]
+	path = home/.vim/plugged/XML-Completion
+	url = https://github.com/vim-scripts/XML-Completion.git
+[submodule "home/.vim/plugged/xmledit"]
+	path = home/.vim/plugged/xmledit
+	url = https://github.com/sukima/xmledit.git
+[submodule "home/.vim/plugged/XML-Folding"]
+	path = home/.vim/plugged/XML-Folding
+	url = https://github.com/vim-scripts/XML-Folding.git
+[submodule "home/.vim/plugged/xptemplate"]
+	path = home/.vim/plugged/xptemplate
+	url = https://github.com/vim-scripts/xptemplate.git
+[submodule "home/.vim/plugged/xterm-color-table.vim"]
+	path = home/.vim/plugged/xterm-color-table.vim
+	url = https://github.com/guns/xterm-color-table.vim.git
+[submodule "home/.vim/plugged/YouCompleteMe"]
+	path = home/.vim/plugged/YouCompleteMe
+	url = https://github.com/Valloric/YouCompleteMe.git
+[submodule "home/.vim/plugged/zeavim.vim"]
+	path = home/.vim/plugged/zeavim.vim
+	url = https://github.com/KabbAmine/zeavim.vim.git

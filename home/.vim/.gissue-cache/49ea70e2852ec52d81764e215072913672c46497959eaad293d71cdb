@@ -1,0 +1,236 @@
+[
+  {
+    "total": 1,
+    "weeks": [
+      {
+        "w": 1430611200,
+        "a": 2,
+        "d": 0,
+        "c": 1
+      },
+      {
+        "w": 1431216000,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1431820800,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1432425600,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1433030400,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1433635200,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1434240000,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1434844800,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1435449600,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      }
+    ],
+    "author": {
+      "login": "gitter-badger",
+      "id": 8518239,
+      "avatar_url": "https://avatars.githubusercontent.com/u/8518239?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/gitter-badger",
+      "html_url": "https://github.com/gitter-badger",
+      "followers_url": "https://api.github.com/users/gitter-badger/followers",
+      "following_url": "https://api.github.com/users/gitter-badger/following{/other_user}",
+      "gists_url": "https://api.github.com/users/gitter-badger/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/gitter-badger/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/gitter-badger/subscriptions",
+      "organizations_url": "https://api.github.com/users/gitter-badger/orgs",
+      "repos_url": "https://api.github.com/users/gitter-badger/repos",
+      "events_url": "https://api.github.com/users/gitter-badger/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/gitter-badger/received_events",
+      "type": "User",
+      "site_admin": false
+    }
+  },
+  {
+    "total": 71,
+    "weeks": [
+      {
+        "w": 1430611200,
+        "a": 500927,
+        "d": 416,
+        "c": 42
+      },
+      {
+        "w": 1431216000,
+        "a": 242,
+        "d": 114,
+        "c": 7
+      },
+      {
+        "w": 1431820800,
+        "a": 511,
+        "d": 226,
+        "c": 11
+      },
+      {
+        "w": 1432425600,
+        "a": 455,
+        "d": 51,
+        "c": 2
+      },
+      {
+        "w": 1433030400,
+        "a": 164,
+        "d": 113,
+        "c": 2
+      },
+      {
+        "w": 1433635200,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1434240000,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1434844800,
+        "a": 8,
+        "d": 3,
+        "c": 1
+      },
+      {
+        "w": 1435449600,
+        "a": 57,
+        "d": 124,
+        "c": 6
+      }
+    ],
+    "author": {
+      "login": "charlesakio",
+      "id": 7959179,
+      "avatar_url": "https://avatars.githubusercontent.com/u/7959179?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/charlesakio",
+      "html_url": "https://github.com/charlesakio",
+      "followers_url": "https://api.github.com/users/charlesakio/followers",
+      "following_url": "https://api.github.com/users/charlesakio/following{/other_user}",
+      "gists_url": "https://api.github.com/users/charlesakio/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/charlesakio/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/charlesakio/subscriptions",
+      "organizations_url": "https://api.github.com/users/charlesakio/orgs",
+      "repos_url": "https://api.github.com/users/charlesakio/repos",
+      "events_url": "https://api.github.com/users/charlesakio/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/charlesakio/received_events",
+      "type": "User",
+      "site_admin": false
+    }
+  },
+  {
+    "total": 84,
+    "weeks": [
+      {
+        "w": 1430611200,
+        "a": 133612,
+        "d": 632543,
+        "c": 52
+      },
+      {
+        "w": 1431216000,
+        "a": 115,
+        "d": 38,
+        "c": 3
+      },
+      {
+        "w": 1431820800,
+        "a": 110,
+        "d": 68,
+        "c": 6
+      },
+      {
+        "w": 1432425600,
+        "a": 168,
+        "d": 420,
+        "c": 17
+      },
+      {
+        "w": 1433030400,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1433635200,
+        "a": 48,
+        "d": 18,
+        "c": 2
+      },
+      {
+        "w": 1434240000,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1434844800,
+        "a": 10,
+        "d": 1,
+        "c": 2
+      },
+      {
+        "w": 1435449600,
+        "a": 0,
+        "d": 9,
+        "c": 2
+      }
+    ],
+    "author": {
+      "login": "juliosueiras",
+      "id": 3680302,
+      "avatar_url": "https://avatars.githubusercontent.com/u/3680302?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/juliosueiras",
+      "html_url": "https://github.com/juliosueiras",
+      "followers_url": "https://api.github.com/users/juliosueiras/followers",
+      "following_url": "https://api.github.com/users/juliosueiras/following{/other_user}",
+      "gists_url": "https://api.github.com/users/juliosueiras/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/juliosueiras/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/juliosueiras/subscriptions",
+      "organizations_url": "https://api.github.com/users/juliosueiras/orgs",
+      "repos_url": "https://api.github.com/users/juliosueiras/repos",
+      "events_url": "https://api.github.com/users/juliosueiras/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/juliosueiras/received_events",
+      "type": "User",
+      "site_admin": false
+    }
+  }
+]

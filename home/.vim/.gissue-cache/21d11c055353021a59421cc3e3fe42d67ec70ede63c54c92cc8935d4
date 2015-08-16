@@ -1,0 +1,37 @@
+[
+  {
+    "url": "https://api.github.com/repos/juliosueiras/atlas-vim/labels/bug",
+    "name": "bug",
+    "color": "fc2929"
+  },
+  {
+    "url": "https://api.github.com/repos/juliosueiras/atlas-vim/labels/duplicate",
+    "name": "duplicate",
+    "color": "cccccc"
+  },
+  {
+    "url": "https://api.github.com/repos/juliosueiras/atlas-vim/labels/enhancement",
+    "name": "enhancement",
+    "color": "84b6eb"
+  },
+  {
+    "url": "https://api.github.com/repos/juliosueiras/atlas-vim/labels/help%20wanted",
+    "name": "help wanted",
+    "color": "159818"
+  },
+  {
+    "url": "https://api.github.com/repos/juliosueiras/atlas-vim/labels/invalid",
+    "name": "invalid",
+    "color": "e6e6e6"
+  },
+  {
+    "url": "https://api.github.com/repos/juliosueiras/atlas-vim/labels/question",
+    "name": "question",
+    "color": "cc317c"
+  },
+  {
+    "url": "https://api.github.com/repos/juliosueiras/atlas-vim/labels/wontfix",
+    "name": "wontfix",
+    "color": "ffffff"
+  }
+]
