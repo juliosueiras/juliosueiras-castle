@@ -964,3 +964,6 @@
 [submodule "home/.vim/plugged/zeavim.vim"]
 	path = home/.vim/plugged/zeavim.vim
 	url = https://github.com/KabbAmine/zeavim.vim.git
+[submodule "home/.fzf"]
+	path = home/.fzf
+	url = "[H[2J[0;0r]0;juliosueiras@juliosueirashttps://github.com/junegunn/fzf.git"
