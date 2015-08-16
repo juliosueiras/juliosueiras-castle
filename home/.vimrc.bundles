@@ -1,0 +1,455 @@
+" Modeline and Notes {
+" " vim: set sw=4 ts=4 sts=4 et tw=78 foldmarker={,} foldlevel=0 foldmethod=marker spell:
+" }"
+call plug#begin('~/.vim/plugged')
+Plug 'junegunn/fzf', { 'dir': '~/.fzf', 'do': 'yes \| ./install' }
+Plug 'tpope/vim-fireplace', { 'for': 'clojure' }
+Plug 'junegunn/vim-github-dashboard', { 'on': ['GHDashboard', 'GHActivity'] }
+Plug 'jeaye/color_coded', {'do': 'make'}
+" Multiple file types
+Plug 'kovisoft/paredit', { 'for': ['clojure', 'scheme'] }
+" On-demand loading on both conditions
+Plug 'junegunn/vader.vim',  { 'on': 'Vader', 'for': 'vader' }
+Plug 'Shougo/vimproc.vim', { 'do': 'make' }
+Plug 'xieyu/pyclewn'
+Plug 'tpope/vim-projectionist'
+" Plug 'sjl/splice.vim'
+Plug 'junegunn/seoul256.vim'
+Plug 'junegunn/vim-easy-align'
+Plug 'KabbAmine/zeavim.vim'
+Plug 'Lokaltog/vim-distinguished'
+Plug 'XML-Folding'
+Plug 'Lokaltog/vim-easymotion'
+Plug 'XML-Completion'
+Plug 'lukaszkorecki/CoffeeTags'
+Plug 'MarcWeber/vim-addon-mw-utils'
+Plug 'janko-m/vim-test'
+" SQL {
+Plug 'talek/vorax4', {'for': 'plsqlvorex'}
+Plug 'exu/pgsql.vim' , {'for': 'pgsql'}
+Plug 'vim-addon-sql' , { 'for': 'sql'}
+Plug 'jphustman/SQLUtilities' , { 'for': 'sql'}
+Plug 'SQLComplete.vim' , {'for': ['sql','mysql']}
+Plug 'dbext.vim' , {'for': 'sql'}
+" }
+Plug 'Shougo/vimshell.vim'
+Plug 'Shougo/vinarise.vim'
+Plug 'kana/vim-submode'
+" Plug 'ton/vim-bufsurf'
+Plug 'SyntaxRange'
+Plug 'altercation/vim-colors-solarized'
+Plug 'bling/vim-bufferline'
+Plug 'chrisbra/NrrwRgn'
+Plug 'fasm-compiler'
+Plug 'dbeniamine/vim-compile'
+Plug 'gotcha/vimpdb'
+Plug 'flazz/vim-colorschemes'
+Plug 'gmarik/vundle'
+Plug 'jceb/vim-orgmode'
+" Plug 'jgdavey/tslime.vim'
+" Plug 'jgdavey/vim-turbux'
+Plug 'jmcantrell/vim-virtualenv'
+Plug 'marijnh/tern_for_vim' , { 'do' : 'npm install'}
+Plug 'matchit.zip'
+Plug 'mattn/calendar-vim'
+Plug 'mileszs/ack.vim'
+Plug 'mohitleo9/vim-fidget'
+Plug 'rake.vim'
+Plug 'spf13/vim-autoclose'
+Plug 'spf13/vim-colors'
+Plug 'thoughtbot/vim-rspec'
+Plug 'tomtom/tlib_vim'
+Plug 'tpope/vim-afterimage'
+Plug 'tpope/vim-speeddating'
+Plug 'vim-scripts/sessionman.vim'
+Plug 'wikitopian/hardmode'
+Plug 'edkolev/tmuxline.vim'
+Plug 'altercation/vim-colors-solarized'
+Plug 'spf13/vim-colors'
+Plug 'spf13/vim-autoclose'
+Plug 'tacahiroy/ctrlp-funky'
+Plug 'vim-scripts/sessionman.vim'
+Plug 'matchit.zip'
+Plug 'bling/vim-bufferline'
+Plug 'flazz/vim-colorschemes'
+Plug 'Xolox/vim-easytags'
+Plug 'mbbill/undotree'
+Plug 'nathanaelkane/vim-indent-guides'
+Plug 'Yggdroot/indentLine'
+Plug 'mhinz/vim-signify'
+Plug 'osyo-manga/vim-over'
+Plug 'gcmt/wildfire.vim'
+Plug 'reedes/vim-wordy'
+Plug 'scrooloose/syntastic'
+Plug 'mattn/webapi-vim'
+Plug 'mattn/gist-vim'
+Plug 'scrooloose/nerdcommenter'
+Plug 'godlygeek/tabular'
+Plug 'majutsushi/tagbar'
+Plug 'Shougo/neocomplete.vim'
+Plug 'Shougo/neosnippet'
+Plug 'Shougo/neosnippet-snippets'
+Plug 'tpope/vim-liquid'
+" TextObj {
+Plug 'reedes/vim-textobj-sentence'
+Plug 'reedes/vim-textobj-quote'
+Plug 'kana/vim-textobj-user'
+Plug 'kana/vim-textobj-indent'
+Plug 'whatyouhide/vim-textobj-xmlattr'
+" }
+" PHP {
+Plug 'spf13/PIV'
+Plug 'arnaud-lb/vim-php-namespace'
+Plug 'beyondwords/vim-twig'
+" }
+" Python {
+" Pick either python-mode or pyflakes & pydoc
+Plug 'yssource/python.vim'
+Plug 'fs111/pydoc.vim'
+Plug 'python_match.vim'
+Plug 'pythoncomplete'
+Plug 'alfredodeza/pytest.vim'
+" }
+" Javascript {
+Plug 'jaxbot/browserlink.vim'
+Plug 'pangloss/vim-javascript'
+Plug 'jelera/vim-javascript-syntax'
+Plug 'KabbAmine/gulp-vim'
+Plug 'briancollins/vim-jst'
+Plug 'kchmck/vim-coffee-script'
+Plug 'jadejs/jade'
+Plug 'vim-jsbeautify'
+" }
+" NodeJS {
+Plug 'moll/vim-node'
+Plug 'wavded/vim-stylus'
+Plug 'mustache/vim-mustache-handlebars'
+Plug 'juvenn/mustache.vim'
+Plug 'tav/nodelint'
+Plug 'jamescarr/snipmate-nodejs'
+Plug 'guileen/vim-node-dict'
+" }
+" Scala {
+Plug 'derekwyatt/vim-scala'
+Plug 'derekwyatt/vim-sbt'
+Plug 'xptemplate'
+" }
+" Haskell {
+Plug 'travitch/hasksyn'
+Plug 'dag/vim2hs'
+Plug 'Twinside/vim-haskellConceal'
+Plug 'Twinside/vim-haskellFold'
+Plug 'lukerandall/haskellmode-vim'
+Plug 'eagletmt/neco-ghc'
+Plug 'eagletmt/ghcmod-vim'
+Plug 'adinapoli/cumino'
+Plug 'bitc/vim-hdevtools'
+" }
+" HTML {
+Plug 'amirh/HTML-AutoCloseTag'
+Plug 'hail2u/vim-css3-syntax'
+Plug 'gorodinskiy/vim-coloresque'
+Plug 'tpope/vim-haml'
+" }
+" Ruby {
+Plug 'tpope/vim-rails'
+Plug 'vim-ruby/vim-ruby'
+" }
+" Puppet {
+Plug 'rodjek/vim-puppet'
+" }
+" Go Lang {
+Plug 'Blackrush/vim-gocode'
+Plug 'fatih/vim-go'
+" }
+" Elixir {
+Plug 'elixir-lang/vim-elixir'
+Plug 'carlosgaldino/elixir-snippets'
+Plug 'mattreduce/vim-mix'
+" }
+" Misc {
+Plug 'spf13/vim-preview'
+Plug 'tpope/vim-cucumber'
+Plug 'cespare/vim-toml'
+Plug 'quentindecock/vim-cucumber-align-pipes'
+Plug 'saltstack/salt-vim'
+" }
+" Django {
+Plug 'JarrodCTaylor/vim-python-test-runner'
+Plug 'jmcomets/vim-pony'
+Plug 'robhudson/snipmate_for_django'
+Plug 'django.vim'
+Plug 'mjbrownie/vim-htmldjango_omnicomplete'
+" }
+Plug 'bats.vim'
+Plug 'farseer90718/vim-taskwarrior'
+Plug 'vim-auto-save'
+Plug 'sophacles/vim-processing'
+Plug 'Chiel92/vim-autoformat'
+" Plug 'LaTeX-Box-Team/LaTeX-Box' , {'for': ['plaintex', 'tex', 'latex']}
+Plug 'lervag/vimtex', {'for': ['plaintex', 'tex', 'latex']}
+Plug 'osyo-manga/vim-watchdogs'
+Plug 'vim-scripts/Vim-R-plugin'
+Plug 'tpope/vim-heroku'
+Plug 'vbnet.vim' , {'for': 'vbnet'}
+Plug 'xuhdev/vim-latex-live-preview'
+Plug 'rip-rip/clang_complete'
+Plug 'noahfrederick/vim-hemisu'
+Plug 'vim-pandoc/vim-rmarkdown' , {'for': ['rmd','rmarkdown']}
+Plug 'vim-pandoc/vim-pandoc'
+Plug 'vim-pandoc/vim-pandoc-syntax'
+Plug 'vim-pandoc/vim-pandoc-after'
+Plug 'vim-pandoc/vim-markdownfootnotes'
+Plug 'tex/vimpreviewpandoc'
+Plug 'kmnk/vim-unite-giti'
+Plug 'ehamberg/vim-cute-python'
+Plug 'tpope/vim-ragtag'
+Plug 'bryanthankins/vim-aspnetide' , { 'for': 'asp'}
+Plug 'OmniSharp/omnisharp-vim' , { 'do': 'rm omnisharp-roslyn && cp -Rf ~/.git_repos/omnisharp-roslyn .' }
+Plug 'OrangeT/vim-csharp'
+Plug 'Quramy/vison'
+Plug 'visual_studio.vim'
+Plug 'idanarye/vim-erroneous'
+Plug 'Shougo/echodoc.vim'
+Plug 'jeffkreeftmeijer/vim-numbertoggle'
+Plug 'ingo-library'
+Plug 'davidhalter/jedi-vim' , {'for':[ 'python','python3']}
+Plug 'chongkim/vim-django-test'
+Plug 'joonty/vdebug'
+Plug 'alfredodeza/pytest.vim'
+Plug 'aklt/plantuml-syntax'
+Plug 'NLKNguyen/papercolor-theme'
+Plug 'codepad'
+Plug 'mattn/pastebin-vim'
+Plug 'vimwiki/vimwiki'
+Plug 'nicwest/QQ.vim'
+Plug 'diepm/vim-rest-console'
+Plug 'godlygeek/csapprox'
+Plug 'alx741/vinfo'
+Plug 'tpope/vim-vinegar'
+Plug 'dahu/LearnVim'
+Plug 'dahu/vim-help'
+Plug 'tomtom/quickfixsigns_vim'
+Plug 'ryanoasis/nerd-fonts'
+Plug 'bling/vim-airline' | Plug 'ryanoasis/vim-devicons'
+Plug 'ctrlpvim/ctrlp.vim' | Plug 'ryanoasis/vim-devicons'
+Plug 'Shougo/unite.vim' | Plug 'ryanoasis/vim-devicons'
+Plug 'Shougo/vimfiler.vim' | Plug 'ryanoasis/vim-devicons'
+Plug 'Shougo/unite-session'
+Plug 'Shougo/neomru.vim'
+Plug 'mru.vim'
+Plug 'L9'
+Plug 'slack/vim-fuzzyfinder'
+Plug 'thinca/vim-unite-history'
+Plug 'tomasr/molokai'
+Plug 'zefei/vim-colortuner'
+Plug 'adt.vim'
+Plug 'utl.vim'
+" Java {
+Plug 'hsanson/vim-android'
+Plug 'tfnico/vim-gradle'
+Plug 'artur-shaik/vim-javacomplete2'
+Plug 'thinca/vim-logcat'
+" }
+Plug 'vimoutliner/vimoutliner'
+Plug 'szw/vim-ctrlspace'
+Plug 'project.tar.gz'
+Plug 'dbakker/vim-projectroot'
+Plug 'airblade/vim-rooter'
+Plug 'idanarye/vim-vebugger'
+Plug 'Xolox/vim-notes'
+Plug 'Xolox/vim-misc'
+Plug 'dahu/VimGym'
+Plug 'DistractFree'
+Plug 'dahu/VimRegexTutor'
+Plug 'dahu/Vimazing'
+Plug 'betterga'
+Plug 'vim-stay'
+Plug 'DrawIt'
+Plug 'mhinz/vim-startify'
+Plug 'sheerun/vim-polyglot'
+Plug 'christoomey/vim-tmux-navigator'
+Plug 'lyokha/vim-publish-helper'
+Plug 'keith/travis.vim'
+Plug 'mklabs/grunt.vim'
+Plug 'fmoralesc/vim-tutor-mode'
+Plug 'fmoralesc/vim-pad'
+Plug 'jaxbot/github-issues.vim'
+Plug 'dag/vim-fish'
+Plug 'LeafCage/foldCC.vim'
+Plug 'matze/vim-tex-fold'
+Plug 'powerman/vim-plugin-viewdoc'
+Plug 'wolfgangmehner/vim-plugins'
+Plug 'sgur/ctrlp-extensions.vim'
+Plug 'FelikZ/ctrlp-py-matcher'
+Plug 'fisadev/vim-ctrlp-cmdpalette'
+Plug 'chrisbra/unicode.vim'
+Plug 'svenXY/vim-muttmail'
+Plug 'bronson/vim-trailing-whitespace'
+Plug 'hrsh7th/vim-neco-calc'
+Plug 'ujihisa/neco-look'
+Plug 'sousu/neco-googlesuggest'
+Plug 'ervandew/supertab'
+Plug 'vim-scripts/TaskList.vim'
+Plug 'reinh/vim-makegreen'
+Plug 'sukima/xmledit'
+Plug 'kana/vim-xml-autons'
+Plug 'dtd2vim'
+Plug 'mjbrownie/browser.vim'
+Plug 'docunext/closetag.vim'
+Plug 'reedes/vim-thematic'
+Plug 'chriskempson/base16-vim'
+Plug 'wesleyche/SrcExpl'
+Plug 'yuratomo/w3m.vim'
+Plug 'sidorares/node-vim-debugger'
+Plug 'wincent/terminus'
+Plug 'vim-addon-completion'
+Plug 'Align'
+Plug 'michalliu/sourcebeautify.vim'
+Plug 'michalliu/jsruntime.vim'
+Plug 'michalliu/jsoncodecs.vim'
+Plug 'keith/investigate.vim'
+Plug 'rooprob/vim-behave'
+Plug 'taku25/vim-visualstudio'
+Plug 'visual_studio.vim'
+" Plug 'wincent/ferret'
+Plug 'kablamo/vim-git-log'
+Plug 'ditaa'
+Plug 'reedes/vim-pencil'
+" ========================= Aix Plugin Manager =========================
+" # Plugins Beginning #
+" @ Plugin --- [ Base Require Lib & Prefix ]
+Plug 'google/vim-maktaba'
+Plug 'romainl/vim-qf'
+Plug 'mattn/webapi-vim'
+Plug 'bruno-/vim-alt-mappings'
+
+" @ Plugin --- [ File Buffer Manager ]
+Plug 'Shougo/unite.vim'
+Plug 'Shougo/unite-outline'
+Plug 'tsukkee/unite-tag'
+Plug 'Shougo/neossh.vim'
+Plug 'Shougo/neomru.vim'
+Plug 'danro/rename.vim'
+
+" @ Plugin --- [ Code Cheacker Viewer ]
+Plug 'simnalamburt/vim-mundo'
+Plug 'haya14busa/incsearch.vim'
+Plug 'airblade/vim-gitgutter'
+Plug 'tpope/vim-obsession'
+
+" @ Plugin --- [ Code Sreach ]
+Plug 'rking/ag.vim'
+Plug 'junegunn/limelight.vim'
+
+" @ Plugin --- [ | Google | Geeks Plugin ]
+Plug 'terryma/vim-multiple-cursors'
+Plug 'terryma/vim-smooth-scroll'
+Plug 'terryma/vim-expand-region'
+Plug 'ebfe/vim-racer'
+
+Plug 'Shougo/neoinclude.vim'
+Plug 'Shougo/neco-vim'
+Plug 'Shougo/neco-syntax'
+Plug 'Shougo/neocomplcache.vim'
+Plug 'Shougo/neocomplete.vim'
+Plug 'SirVer/ultisnips'
+Plug 'honza/vim-snippets'
+Plug 'skeept/Ultisnips-neocomplete-unite'
+Plug 'mattn/livestyle-vim'
+
+" @ Plugin --- [ Code Complete Unity ]
+Plug 'Raimondi/delimitMate'
+Plug 'mattn/emmet-vim'
+Plug 'mattn/livestyle-vim'
+
+" @ Plugin --- [ Geeks Plugin ]
+Plug 'tpope/vim-git'
+Plug 'tpope/vim-fugitive'
+Plug 'tpope/vim-rhubarb'
+Plug 'tpope/vim-abolish'
+Plug 'tpope/vim-surround'
+Plug 'tpope/vim-repeat'
+Plug 'tpope/vim-dispatch'
+Plug 'tpope/vim-commentary'
+Plug 'gregsexton/gitv'
+Plug 'bruno-/vim-man'
+Plug 'dhruvasagar/vim-table-mode'
+
+" @ Plugin --- [ Syntax ]
+Plug 'justinmk/vim-syntax-extra' "Extra C Flex Syntax
+Plug 'Kris2k/A.vim'
+Plug 'othree/html5.vim'
+Plug 'othree/javascript-libraries-syntax.vim'
+Plug 'ap/vim-css-color'
+Plug 'groenewege/vim-less'
+Plug 'digitaltoad/vim-jade'
+Plug 'elzr/vim-json'
+Plug 'chrisbra/csv.vim'
+Plug 'StanAngeloff/php.vim'
+Plug 'tmux-plugins/vim-tmux'
+Plug 'plasticboy/vim-markdown'
+Plug 'vim-jp/vim-cpp'
+Plug 'rust-lang/rust.vim'
+Plug '13k/vim-nginx'
+Plug 'guns/xterm-color-table.vim'
+
+" @ Plugin --- [ Code Format ]
+Plug 't9md/vim-quickhl'
+
+Plug 'calebsmith/vim-lambdify'
+Plug 'Mizuchi/vim-ranger'
+
+call plug#end()
+let g:rubycomplete_buffer_loading = 1
+let g:rubycomplete_classes_in_global = 1
+let g:rubycomplete_rails = 1
+
+" ----------------------------------------------------------------------------
+" vimawesome.com
+" ----------------------------------------------------------------------------
+function! VimAwesomeComplete() abort
+    let prefix = matchstr(strpart(getline('.'), 0, col('.') - 1), '[.a-zA-Z0-9_/-]*$')
+    echohl WarningMsg
+    echo 'Downloading plugin list from VimAwesome'
+    echohl None
+    ruby << EOF
+    require 'json'
+    require 'open-uri'
+
+
+    query = VIM::evaluate('prefix').gsub('/', '%20')
+    items = 1.upto(max_pages = 3).map do |page|
+    Thread.new do
+    url  = "http://vimawesome.com/api/plugins?page=#{page}&query=#{query}"
+    data = open(url).read
+    json = JSON.parse(data, symbolize_names: true)
+    json[:plugins].map do |info|
+    pair = info.values_at :github_owner, :github_repo_name
+    next if pair.any? { |e| e.nil? || e.empty? }
+    {word: pair.join('/'),
+    menu: info[:category].to_s,
+    info: info.values_at(:short_desc, :author).compact.join($/)}
+end.compact
+    end
+end.each(&:join).map(&:value).inject(:+)
+VIM::command("let cands = #{JSON.dump items}")
+EOF
+if !empty(cands)
+    inoremap <buffer> <c-v> <c-n>
+    augroup _VimAwesomeComplete
+        autocmd!
+        autocmd CursorMovedI,InsertLeave * iunmap <buffer> <c-v>
+                    \| autocmd! _VimAwesomeComplete
+    augroup END
+
+    call complete(col('.') - strchars(prefix), cands)
+endif
+return ''
+endfunction
+
+
+augroup VimAwesomeComplete
+    autocmd!
+    autocmd FileType vim inoremap <c-x><c-v> <c-r>=VimAwesomeComplete()<cr>
+augroup END
